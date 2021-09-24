@@ -1,0 +1,6 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="E:\Amar\dotnet\Blazor\BlazorWebTemplete\BlazorWebTemplete\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="E:\Amar\dotnet\Blazor\BlazorWebTemplete\BlazorWebTemplete\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/BlazorAnimate" Path="C:\Users\Sujashree\.nuget\packages\blazoranimate\3.0.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/MudBlazor" Path="C:\Users\Sujashree\.nuget\packages\mudblazor\5.1.4\build\..\staticwebassets\" />
+</StaticWebAssets>
